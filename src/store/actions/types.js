@@ -1,0 +1,5 @@
+export const FACBOOK_LOGIN_SUCCESS = "FACBOOK_LOGIN_SUCCESS";
+export const FACBOOK_LOGIN_FAIL = "FACBOOK_LOGIN_FAIL";
+export const FETCH_JOBS = "FETCH_JOBS";
+export const LIKE_JOB = "LIKE_JOB";
+export const CLEAR_LIKED_JOB = "CLEAR_LIKED_JOB";

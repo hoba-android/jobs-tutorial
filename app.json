@@ -22,8 +22,12 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+        "backgroundColor": "#FFFFFF",
+
+       
+      },
+      "package": "com.hoba.jobs",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
